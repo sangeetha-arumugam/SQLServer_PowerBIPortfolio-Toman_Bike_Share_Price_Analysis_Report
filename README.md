@@ -30,7 +30,9 @@ Option 2: And, also the dataset can be found on [Absent Data](https://www.youtub
 
 **Tools and Technologies** 
 
-•	Power BI Function Library: SQL, and DAX
+•	Power BI Function Library: DAX
+
+•	Programming Language: SQL
 
 •	Tool: Microsoft Excel, SQL Server, and Power BI
 
