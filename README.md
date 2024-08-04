@@ -35,24 +35,23 @@ Option 2: And, also the dataset can be found on [Absent Data](https://www.youtub
 •	Tool: Microsoft Excel, SQL Server, and Power BI
 
 ## Methodology
-
-1. **Build a Database**
+A. **Build a Database**
 
 o Set up a relational database to store Toman Bike Share's data, including ride history, customer information, pricing details, and operational metrics.
 
-2. **Develop SQL Queries**
+B. **Develop SQL Queries**
 
 o Write SQL queries to clean, manipulate, and extract relevant data from the database. This includes calculating key metrics such as average revenue per ride, customer segmentation, and peak usage times.
 
-3. **Connect Power BI to the Database**
+C. **Connect Power BI to the Database**
 
 o Establish a connection between the database and Power BI to facilitate the real-time updating and visualization of data.
 
-4. **Build a Dashboard**
+D. **Build a Dashboard**
 
 o Create a Power BI dashboard that visualizes key metrics and trends. The dashboard will include charts and graphs illustrating revenue, ride frequency, customer demographics, and other critical factors influencing pricing decisions.
 
-5. **Make Analysis Recommendations**
+E. **Make Analysis Recommendations**
 
 o Based on the data analysis, provide recommendations regarding potential pricing changes, taking into account factors such as customer elasticity, competitive pricing, and seasonal demand variations.
 
@@ -102,13 +101,13 @@ Obviously, if we increase the price by 25% and we still saw the increase of 64% 
 ## Conclusion
 The Toman Bike Share Performance Dashboard provides a comprehensive view of the company's financial and operational metrics. By leveraging data from the SQL Server database and visualizing it in Power BI, the project enables Toman Bike Share to make data-driven decisions to enhance profitability and optimize operations. The recommendations provided aim to capitalize on identified trends and improve overall business performance.
 ## Recommendations
-1. **Conservative Increase:**
+A. **Conservative Increase:**
 
 o Consider a conservative increase in pricing or capacity during peak seasons to maximize revenue without overwhelming resources.
 
 o Considering the substantial increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range of 10-15% could test the market’s response without risking a significant loss of customers.
 
-2. **Price Setting:**
+B. **Price Setting:**
 
 o Implement a segmented pricing strategy that reflects the demand and rider demographics, potentially offering discounts during off-peak hours or to specific rider categories.
 
@@ -116,7 +115,7 @@ o If the price in 2022 was $4.99, a 10% increase would make the new price about 
 
 o A 15% increase would set the price at approximately $5.74.
 
-3. **Recommended Strategy:**
+C. **Recommended Strategy:**
 
 **Market Analysis:**
 
