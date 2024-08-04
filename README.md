@@ -47,6 +47,8 @@ C. **Connect Power BI to the Database**
 
 o Establish a connection between the database and Power BI to facilitate the real-time updating and visualization of data.
 
+![Alternative Text](assets/images/Findings Q7.png)
+
 D. **Build a Dashboard**
 
 o Create a Power BI dashboard that visualizes key metrics and trends. The dashboard will include charts and graphs illustrating revenue, ride frequency, customer demographics, and other critical factors influencing pricing decisions.
